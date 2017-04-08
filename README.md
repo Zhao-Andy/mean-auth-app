@@ -1,4 +1,4 @@
-#MEAN Authentication App
+# MEAN Authentication App
 
 A simple authentication app using MongoDB, Express, Angular2, and Node.js (MEAN).
 

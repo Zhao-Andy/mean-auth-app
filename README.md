@@ -10,7 +10,7 @@ Built to learn full stack Javascript, with MEAN.*
 * Mongoose for models, stored in MongoDB (MLab for Heroku)
 * Angular2 components and services, via Angular-CLI
 
--
+---
 
 #### [Deployed via Heroku.](https://andy-mean-auth-app.herokuapp.com/)
     
